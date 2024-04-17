@@ -1,0 +1,9 @@
+.btn_todos{
+    background-color: white;
+    color: black;
+    width: 110px;
+    height: 50px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
